@@ -100,7 +100,7 @@ export default class ProductManager {
           p.id === _id ? { ...p, ...elem } : p
         );
         
-      //  console.log(elem);
+      
         this.products = newProduct;
         this.appendProducts();
       }
