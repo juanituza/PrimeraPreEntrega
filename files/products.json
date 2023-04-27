@@ -1,0 +1,222 @@
+[
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3000,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 1
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3001,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 2
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3002,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 3
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3003,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 4
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3004,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 5
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3005,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 6
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3006,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 7
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3007,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 8
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3008,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 9
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3009,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 10
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3010,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 11
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3011,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 12
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3012,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 13
+	},
+	{
+		"title": "remera",
+		"description": "yellow",
+		"price": 900,
+		"thumbnail": "img",
+		"code": 30189,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 14
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3015,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 15
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3015,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 16
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3015,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 17
+	},
+	{
+		"title": "remera",
+		"description": "BLACK",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 3015,
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 18
+	},
+	{
+		"title": "buzo",
+		"description": "amarillo",
+		"price": 500,
+		"thumbnail": "img",
+		"code": "36523aa6s",
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 19
+	},
+	{
+		"title": "buzo",
+		"description": "amarillo",
+		"price": 500,
+		"thumbnail": "img",
+		"code": "aaaaaa",
+		"stock": 150,
+		"category": "clothes",
+		"status": true,
+		"id": 20
+	}
+]
