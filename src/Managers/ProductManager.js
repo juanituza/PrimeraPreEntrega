@@ -66,7 +66,7 @@ export default class ProductManager {
         this.path,
         JSON.stringify(products, null, "\t")
       );
-      // this.appendProducts();
+     
       return product;
     } catch (error) {
       console.error(error);

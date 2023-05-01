@@ -196,27 +196,5 @@
 		"category": "clothes",
 		"status": true,
 		"id": 18
-	},
-	{
-		"title": "buzo",
-		"description": "amarillo",
-		"price": 500,
-		"thumbnail": "img",
-		"code": "36523aa6s",
-		"stock": 150,
-		"category": "clothes",
-		"status": true,
-		"id": 19
-	},
-	{
-		"title": "buzo",
-		"description": "amarillo",
-		"price": 500,
-		"thumbnail": "img",
-		"code": "aaaaaa",
-		"stock": 150,
-		"category": "clothes",
-		"status": true,
-		"id": 20
 	}
 ]

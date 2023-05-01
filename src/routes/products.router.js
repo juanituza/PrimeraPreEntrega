@@ -13,6 +13,7 @@ router.get("/", async (req, res) => {
   try {
     const limProd = req.query.limit;
     const allProducts = await products;
+    console.log(products);
     if (!limProd) {
       res.send(allProducts);
     } else if (isNaN(limProd)) {
